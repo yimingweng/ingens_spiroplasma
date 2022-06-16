@@ -1,0 +1,6 @@
+new("snmfClass", directory = "K3/run5/", snmfClass.file = "spiroplasma_snps_r5.3.snmfClass", 
+    K = 3L, run = 5L, CPU = 1L, seed = 1121791600L, alpha = 10, 
+    percentage = 0.05, I = 0L, iterations = 200L, entropy = TRUE, 
+    tolerance = 1e-05, crossEntropy = 0.0994254199684802, ploidy = 2L, 
+    Q.input.file = "", Q.output.file = "spiroplasma_snps_r5.3.Q", 
+    G.output.file = "spiroplasma_snps_r5.3.G")
